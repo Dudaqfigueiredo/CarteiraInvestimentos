@@ -1,0 +1,16 @@
+C:\Users\Fábio\projetostone\desafiocarteira\bin\Debug\net5.0\desafiocarteira.exe
+C:\Users\Fábio\projetostone\desafiocarteira\bin\Debug\net5.0\desafiocarteira.deps.json
+C:\Users\Fábio\projetostone\desafiocarteira\bin\Debug\net5.0\desafiocarteira.runtimeconfig.json
+C:\Users\Fábio\projetostone\desafiocarteira\bin\Debug\net5.0\desafiocarteira.runtimeconfig.dev.json
+C:\Users\Fábio\projetostone\desafiocarteira\bin\Debug\net5.0\desafiocarteira.dll
+C:\Users\Fábio\projetostone\desafiocarteira\bin\Debug\net5.0\ref\desafiocarteira.dll
+C:\Users\Fábio\projetostone\desafiocarteira\bin\Debug\net5.0\desafiocarteira.pdb
+C:\Users\Fábio\projetostone\desafiocarteira\obj\Debug\net5.0\desafiocarteira.csprojAssemblyReference.cache
+C:\Users\Fábio\projetostone\desafiocarteira\obj\Debug\net5.0\desafiocarteira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio\projetostone\desafiocarteira\obj\Debug\net5.0\desafiocarteira.AssemblyInfoInputs.cache
+C:\Users\Fábio\projetostone\desafiocarteira\obj\Debug\net5.0\desafiocarteira.AssemblyInfo.cs
+C:\Users\Fábio\projetostone\desafiocarteira\obj\Debug\net5.0\desafiocarteira.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\projetostone\desafiocarteira\obj\Debug\net5.0\desafiocarteira.dll
+C:\Users\Fábio\projetostone\desafiocarteira\obj\Debug\net5.0\ref\desafiocarteira.dll
+C:\Users\Fábio\projetostone\desafiocarteira\obj\Debug\net5.0\desafiocarteira.pdb
+C:\Users\Fábio\projetostone\desafiocarteira\obj\Debug\net5.0\desafiocarteira.genruntimeconfig.cache
